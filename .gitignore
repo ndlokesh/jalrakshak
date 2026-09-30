@@ -1,0 +1,24 @@
+# Environment secrets - NEVER commit to git
+.env
+.env.local
+.env.production
+.env.*.local
+
+# Dependencies
+node_modules/
+
+# Vite production build output
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+logs/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

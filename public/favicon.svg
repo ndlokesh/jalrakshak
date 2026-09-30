@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="jalGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0284c7" />
+      <stop offset="100%" stop-color="#10b981" />
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="48" fill="#0f172a" stroke="#38bdf8" stroke-width="2" />
+  <path d="M50 18 C50 18 24 50 24 66 A26 26 0 0 0 76 66 C76 50 50 18 50 18 Z" fill="url(#jalGrad)" />
+  <path d="M40 68 Q50 60 60 68" stroke="#ffffff" stroke-width="3" stroke-linecap="round" fill="none" />
+</svg>
